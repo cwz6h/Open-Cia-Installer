@@ -6,7 +6,7 @@
 ## Features
 CIA Installer
 
-Uninstaller
+CIA Uninstaller
 
 ## How To Use
 
@@ -28,3 +28,7 @@ Then Launch FBI And Install The App Using The .cia File You Copied Earlier.
 On Your 3DS SD Card, Copy The 3DSX File To The 3ds Folder.
 Then Launch Homebrew Launcher And Launch The App Using The .3dsx File You Copied Earlier.
 **Your Done!, Do Whatever! By The Way. If You Would Like, Copy Any CIA File You Want To Install To the "openciadir" Folder! Enjoy!**
+
+## Licensing
+This software is licensed under the terms of the GPLv3. You can find a copy of the license in the LICENSE file.
+
