@@ -30,5 +30,5 @@ Then Launch Homebrew Launcher And Launch The App Using The .3dsx File You Copied
 **Your Done!, Do Whatever! By The Way. If You Would Like, Copy Any CIA File You Want To Install To the "openciadir" Folder! Enjoy!**
 
 ## Licensing
-This software is licensed under the terms of the GPLv3. You can find a copy of the license in the LICENSE file.
+This software is licensed under the terms of the MIT. You can find a copy of the license in the LICENSE file.
 
